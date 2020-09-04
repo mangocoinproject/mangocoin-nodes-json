@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "name": "Seed Node 1",
+      "url": "pool.mangocoin.online",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Seed Node 2",
+      "url": "116.203.140.242",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
